@@ -42,7 +42,7 @@ WORKDIR /app
 # Set environment variables
 ENV NODE_ENV=production
 ENV NEXT_TELEMETRY_DISABLED=1
-ENV NEXT_PUBLIC_API_URL=https://api.solvario.app
+ENV NEXT_PUBLIC_API_URL=https://api.app.example
 
 
 # Create a non-root user
