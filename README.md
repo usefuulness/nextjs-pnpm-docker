@@ -35,7 +35,7 @@ You can configure the app using environment variables:
 | Variable               | Description                       | Default                 |
 |------------------------|---------------------------------|-------------------------|
 | `NODE_ENV`            | Runtime environment              | `production`           |
-| `NEXT_PUBLIC_API_URL` | API URL for frontend requests    | `https://api.solvario.app` |
+| `NEXT_PUBLIC_API_URL` | API URL for frontend requests    | `https://api.app.example` |
 | `PORT`                | Port the app runs on             | `3000`                  |
 
 ## 🐳 Docker Compose (Optional)
