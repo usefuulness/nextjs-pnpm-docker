@@ -51,7 +51,7 @@ services:
       - "3000:3000"
     environment:
       NODE_ENV: production
-      NEXT_PUBLIC_API_URL: https://api.solvario.app
+      NEXT_PUBLIC_API_URL: https://api.app.example
 ```
 
 Run it with:
